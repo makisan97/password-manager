@@ -6,4 +6,6 @@ There is also the ability to generate a random password
 
 The new password is saved to clipboard for easy use
 
-After saving ("add" button) the new info, it is saved in a new file data.txt
+After saving ("add" button) the new info, it is saved in a new file data.json
+
+You can search your email/username and password using the search button, using the website as key
